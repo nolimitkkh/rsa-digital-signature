@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""Register users and verify logins using salted SHA-256 hashes."""
-
 import getpass
 import hashlib
 import hmac
